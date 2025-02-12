@@ -16,16 +16,16 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Min Kim"
+title                    : "Jongseok Kim"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Min Kim"
-description              : "CV homepage for Min Kim"
-url                      : "https://mineruking.gitbhub.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Jongseok Kim"
+description              : "CV homepage for Jongseok Kim"
+url                      : "https://kor-jskim.gitbhub.io" # the base hostname & protocol for your site e.g. "https://kor-jskim.github.io"
 future                   : true
 
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "mineruking/mineruking.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "kor-jskim/kor-jskim.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -124,7 +124,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Min Kim"
+  name             : "Jongseok Kim"
   avatar           : "/assets/images/profile.jpg"
   bio              : "Master Candidate @ Information System Lab, CBNU"
   # location         : "S4-1 room 306, Chungdae-ro 1, Seowon-gu, Cheongju, Chungbuk, 28644, ROK"
