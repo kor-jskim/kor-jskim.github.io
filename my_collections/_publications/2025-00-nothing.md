@@ -1,12 +1,12 @@
 ---
 id: 1
-title: 'Nothing Here Yet!'
-index: C01
-authors: <strong><u>Min Kim</u></strong>
-venue: <strong>NOTHING 2025</strong>
-vtype: conference
-year: 2025
+title: 'Intelligent Index Classification Method Based on Machine Learning for Detection of Reference Signal in 5G Networks'
+index: J01
+authors: Seungwoo Kang, Taegyeon Lee, <strong><u>Jongseok Kim</u></strong>, A-reum-saem Lee, Juyeop Kim, Ohyun Jo*
+venue: <strong>IEEE Access 2023</strong>
+vtype: journal
+year: 2023
 ptype: Full Paper
-file: /assets/files/paperEx.pdf
+file: /assets/files/Intelligent.pdf
 ---
 
