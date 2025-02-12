@@ -132,16 +132,16 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:kmin010287@chungbuk.ac.kr"
+      url: "mailto:kjseok@chungbuk.ac.kr"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mineruking/"
+      url: "https://github.com/kor-jskim/"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.co.kr/null"
+      url: "https://scholar.google.co.kr/citations?user=nzFafjcAAAAJ&hl=ko&oi=ao"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/mineruking/"
+      url: "https://linkedin.com/in/%EA%B9%80%EC%A2%85%EC%84%9D-0a3b28309/"
     - label: "CV"
       icon : "fas fa-fw fa-file"
       url: /assets/files/mkim_cv.pdf
@@ -169,7 +169,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mineruking/"
+      url: "https://github.com/kor-jskim/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -178,7 +178,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "instagram.com/mineruking"
+      url: "https://www.instagram.com/js.__.0101/"
 
 
 # Reading Files
