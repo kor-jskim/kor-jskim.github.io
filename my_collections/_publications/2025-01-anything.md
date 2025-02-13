@@ -1,12 +1,12 @@
 ---
 id: 2
-title: 'How to edit'
-index: C02
-authors: <strong><u>Min Kim</u></strong>
-venue: <strong>ANYTHING 2025</strong>
+title: 'IncepSeqNet : Advancing Signal Classification with Multi-Shape Augmentation'
+index: C01
+authors: <strong><u>Jongseok Kim</u></strong>, Ohyun Jo*
+venue: <strong>AAAI 2024</strong>
 vtype: conference
-year: 2025
-ptype: Full Paper
-file: /assets/files/paperEx2.pdf
+year: 2024
+ptype: short Paper
+file: /assets/files/Incepsenet.pdf
 ---
 
