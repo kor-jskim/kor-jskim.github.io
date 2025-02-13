@@ -4,7 +4,7 @@ title: 'Intelligent Index Classification Method Based on Machine Learning for De
 index: J01
 authors: Seungwoo Kang, Taegyeon Lee, <strong><u>Jongseok Kim</u></strong>, A-reum-saem Lee, Juyeop Kim, Ohyun Jo*
 venue: <strong>IEEE Access 2023</strong>
-vtype: journal
+vtype: paper
 year: 2023
 ptype: Full Paper
 file: /assets/files/Intelligent.pdf
