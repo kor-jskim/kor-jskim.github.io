@@ -7,6 +7,6 @@ venue: <strong>AAAI 2024</strong>
 vtype: paper
 year: 2024
 ptype: short Paper
-file: /assets/files/Incepsenet.pdf
+file: /assets/files/Incepseqnet.pdf
 ---
 
