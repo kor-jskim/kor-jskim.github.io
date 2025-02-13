@@ -1,0 +1,12 @@
+---
+id: 5
+title: 'Analysis on Underwater Channel by Using Shapley Additive Explanations'
+index: J03
+authors: <strong><u>Jongseok Kim</u></strong>, Ho-Shin Cho Ohyun Jo*
+venue: <strong>The Journal of Korean Institute of Communication and Information Sciences 2025 (SCOPUS)</strong>
+vtype: journal
+year: 2025
+ptype: full Paper
+file: /assets/files/Analysis.pdf
+---
+
