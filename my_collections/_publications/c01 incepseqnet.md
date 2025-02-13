@@ -4,7 +4,7 @@ title: 'IncepSeqNet : Advancing Signal Classification with Multi-Shape Augmentat
 index: C01
 authors: <strong><u>Jongseok Kim</u></strong>, Ohyun Jo*
 venue: <strong>AAAI 2024</strong>
-vtype: paper
+vtype: conference
 year: 2024
 ptype: short Paper
 file: /assets/files/Incepseqnet.pdf
