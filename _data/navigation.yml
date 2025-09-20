@@ -4,6 +4,8 @@ main:
     url: https://kor-jskim.github.io/
   - title: "Education"
     url: /#edu
+  - title: "News"
+    url: /#news
   - title: "Publications"
     url: /#pub
   # - title: "Services"
