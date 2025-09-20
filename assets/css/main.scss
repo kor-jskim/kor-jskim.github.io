@@ -9,6 +9,26 @@ search: false
 @import "minimal-mistakes"; // main partials
 @import url('https://fonts.googleapis.com/css2?family=Kantumruy+Pro:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
+
+.news-list {
+  list-style: none;
+  padding: 0;
+}
+.news-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 0.8em;
+}
+.news-date {
+  min-width: 110px;
+  font-weight: bold;
+  margin-right: 10px;
+  flex-shrink: 0;
+}
+.news-title {
+  flex-grow: 1;
+}
+
 .section_title{
     font-family:  'Kantumruy Pro',  sans-serif;
     font-size: 30px;
