@@ -35,8 +35,13 @@ search: false
 }
 
 .news-title {
-  flex-grow: 1;
+  font-size: 0.9rem; 
+  white-space: nowrap;
+  overflow-x: auto;
+  display: block;
+  max-width: 600px;
 }
+
 
 
 .section_title{
