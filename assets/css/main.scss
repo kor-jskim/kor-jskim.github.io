@@ -38,6 +38,15 @@ search: false
   padding: 2px 10px;
 }
 
+.news-title {
+  white-space: normal;   /* 줄 바꿈 허용 */
+  word-wrap: break-word; /* 단어 단위로도 줄 바꿈 허용 */
+  overflow-wrap: break-word; /* 최신 CSS 표준 속성 */
+  max-width: calc(100% - 160px); /* 날짜(min-width 120px + margin-right 40px)를 뺀 나머지 공간 */
+  display: inline-block; /* 블록처럼 공간 차지 */
+}
+
+
 
 .section_title{
     font-family:  'Kantumruy Pro',  sans-serif;
