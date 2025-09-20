@@ -9,19 +9,23 @@ search: false
 @import "minimal-mistakes"; // main partials
 @import url('https://fonts.googleapis.com/css2?family=Kantumruy+Pro:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
-#news{
-    width: 100%;
+#news {
+  overflow-x: auto;  
+  white-space: nowrap; 
 }
 
 .news-list {
-  max-height: 300px;
-  overflow-y: auto;
+  display: inline-flex;  
   padding-left: 0;
   margin: 0;
-  list-style-type: none;
+  list-style: none;
 }
+
 .news-item {
-  margin-bottom: 1.0em;
+  min-width: 250px;       
+  margin-right: 20px;    
+  white-space: normal;    
+  vertical-align: top;
 }
 
 .news-date {
