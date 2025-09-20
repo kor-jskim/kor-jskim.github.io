@@ -9,17 +9,17 @@ search: false
 @import "minimal-mistakes"; // main partials
 @import url('https://fonts.googleapis.com/css2?family=Kantumruy+Pro:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
-.news-list {
-  max-height: 300px;  /* 적절한 최대 높이 지정 */
-  overflow-y: auto;   /* 내용이 넘치면 세로 스크롤 생성 */
-  padding-left: 0;
-  margin: 0;
-  list-style-type: none;
-}
+// .news-list {
+//   max-height: 300px;  /* 적절한 최대 높이 지정 */
+//   overflow-y: auto;   /* 내용이 넘치면 세로 스크롤 생성 */
+//   padding-left: 0;
+//   margin: 0;
+//   list-style-type: none;
+// }
 
-.news-item {
-  margin-bottom: 0.8em;
-}
+// .news-item {
+//   margin-bottom: 0.8em;
+// }
 
 
 
