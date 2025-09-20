@@ -1,5 +1,5 @@
 ---
-id: 7
+id: 8
 title: 'Hybrid Feature Selection for Assessment of Oceanic Channel via Explainable AI'
 index: U02
 authors: <strong><u>Jongseok Kim</u></strong>, Ho-Shin Cho, Ohyun Jo*
