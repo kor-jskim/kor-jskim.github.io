@@ -7,6 +7,6 @@ venue: <strong>IEEE Transactions on Industrial Informatics</strong>
 vtype: under review
 year: 2025
 ptype: Full Paper
-file: /assets/files/.pdf
 ---
 
+file: /assets/files/.pdf
