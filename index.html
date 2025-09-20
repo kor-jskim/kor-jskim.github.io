@@ -93,8 +93,10 @@ author_profile: true
             <p>{{ pub.authors }}</p>
             <p class="venue">{{ pub.venue }}</p>
             {% if pub.award %}<p class="award">{{pub.award}}</p>{% endif %}
-	    <div class="paper-buttons">
-		    <a class="button" href={{pub.file}} target="_blank">[paper]</a>
+	    	
+			{% unless pub.vtype == 'under review' %}
+			<div class="paper-buttons">
+		    	<a class="button" href={{pub.file}} target="_blank">[paper]</a>
 		    </div>
 			<!-- <p class="media">{% for media in pub.medias %}[<a href="#">{{media}}</a>]{% endfor %}</p> -->
         </div>
