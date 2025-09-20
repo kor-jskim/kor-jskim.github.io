@@ -14,8 +14,8 @@ search: false
 }
 
 .news-list {
-  max-height: 300px;  /* 적절한 최대 높이 지정 */
-  overflow-y: auto;   /* 내용이 넘치면 세로 스크롤 생성 */
+  max-height: 300px; 
+  overflow-y: auto;  
   padding-left: 0;
   margin: 0;
   list-style-type: none;
@@ -28,7 +28,7 @@ search: false
 .news-date {
   min-width: 120px;
   font-weight: bold;
-  margin-right: 40px;    /* 숫자를 늘려 더 넓게 조절 */
+  margin-right: 40px;   
   flex-shrink: 0;
   white-space: nowrap;
 
@@ -39,11 +39,11 @@ search: false
 }
 
 .news-title {
-  white-space: normal;   /* 줄 바꿈 허용 */
-  word-wrap: break-word; /* 단어 단위로도 줄 바꿈 허용 */
-  overflow-wrap: break-word; /* 최신 CSS 표준 속성 */
-  max-width: calc(100% - 160px); /* 날짜(min-width 120px + margin-right 40px)를 뺀 나머지 공간 */
-  display: inline-block; /* 블록처럼 공간 차지 */
+  font-size: 0.9rem;
+  white-space: normal;
+  word-break: break-word;
+  display: block;
+  text-indent: 0;
 }
 
 
