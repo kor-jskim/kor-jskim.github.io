@@ -22,11 +22,16 @@ search: false
 }
 
 .news-date {
-  min-width: 120px;  
-  // font-weight: bold;
-  margin-right: 60px; 
+  min-width: 120px;
+  font-weight: bold;
+  margin-right: 40px;   
   flex-shrink: 0;
-  white-space: nowrap; 
+  white-space: nowrap;
+
+  color: #336699;
+  background: #f6f6f6;
+  border-radius: 3px;
+  padding: 2px 10px;
 }
 
 .news-title {
