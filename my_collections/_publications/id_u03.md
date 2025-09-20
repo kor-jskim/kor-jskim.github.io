@@ -1,4 +1,3 @@
-
 ---
 id: 9
 title: '(Title withheld due to double-blind policy.)'
