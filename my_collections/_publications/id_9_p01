@@ -2,7 +2,7 @@
 id: 9
 title: 'LeMoF: Level-guided Multimodal Fusion for Heterogeneous Clinical Data'
 index: P01
-authors: <strong><u>Jongseok Kim</u></strong>, Seongae Kang, Jonghwan Shin, Yuhan Lee, Ohyun Jo*
+authors: <strong><u>Jongseok Kim</u></strong><sup>†</sup>, Seongae Kang<sup>†</sup>, Jonghwan Shin, Yuhan Lee, Ohyun Jo*
 venue: <strong>arxiv</strong>
 vtype: under review
 year: 2026
